@@ -25,9 +25,9 @@
 
  <distributionManagement>
       <repository>
-       <id>1234</id>
-       <name>nexusCI</name>
-       <url>http://192.168.1.45:8081/nexus/content/repositories/1234</url>
+       <id>1989</id>
+       <name>maven</name>
+       <url>http://192.168.1.45:8081/nexus/content/repositories/1989</url>
      </repository>
   </distributionManagement>
 
